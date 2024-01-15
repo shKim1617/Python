@@ -3,6 +3,7 @@ Formatting
 
 print("%d" % 5)
 
+
 => 5
 ***
 
