@@ -14,3 +14,6 @@ print("{} {}" .format(5, "temp"))
 
 => 5 temp
 ***
+print("{:10.3f}" .format(123.12345))
+
+=> 123.123
